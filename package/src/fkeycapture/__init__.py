@@ -1,4 +1,5 @@
 """Firepup650's fkeycapture module"""
+
 import termios, fcntl, sys, os
 from typing import Union, Iterable, Any
 
