@@ -5,5 +5,4 @@ venv/**
 .pythonlibs/**
 .config/**
 replit*txt
-testOnly/**
-**firepup650.egg-info/**
+.replit
